@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eminentglory.eminentglory&right_color=forestgreen"  />
-</div>
-
-###
-
 <h1 align="left">Hi there!👋</h1>
 
 ###
